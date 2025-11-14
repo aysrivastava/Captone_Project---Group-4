@@ -59,7 +59,7 @@ A production-ready financial data engineering platform for algorithmic trading, 
 ## Installation
 
 1. Clone repository and install dependencies:
-git clone https://github.com/your-username/nexus-bank-analytics.git
+git clone [https://github.com/aysrivastava/Captone_Project---Group-4.git]
 pip install yfinance pandas-datareader fredapi statsmodels prophet scikit-learn matplotlib seaborn
 
 2. Import notebook to Databricks and configure:
